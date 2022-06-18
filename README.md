@@ -1,4 +1,6 @@
-# polibhaji
+# polibhajidotcom
+
+### Vegetarian entrees
 
 Sauteed potato https://gist.github.com/roobels/134aaa6d09a20d486ba45c016099ddb3
 
